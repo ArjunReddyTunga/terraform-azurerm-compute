@@ -1,2 +1,2 @@
-# azure
-Azure Infrastructure Automation
+#  Terraform Azure RM Compute Module
+Azure Virtual Machines
